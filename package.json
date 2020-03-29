@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Custom hook that can be used to exit the app on double press. It uses small toaster inside. This will work only on android",
   "author": "Shankar Morwal <shankar@habilelabs.io",
-  "homepage": "https://bitbucket.org/examsbook/examsbook-web#readme",
+  "homepage": "https://github.com/habilelabs/habilelabs-react-native-exit-on-double-press",
   "license": "ISC",
   "main": "lib/useExitAppOnDoublePress.js",
   "keywords": [
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/examsbook/examsbook-web.git"
+    "url": "git+ssh://git@github.com:habilelabs/habilelabs-react-native-exit-on-double-press.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
