@@ -1,0 +1,32 @@
+{
+  "name": "@shankarmorwal/react-native-exit-on-double-press",
+  "version": "1.0.1",
+  "description": "Custom hook that can be used to exit the app on double press. It uses small toaster inside. This will work only on android",
+  "author": "Shankar Morwal <shankar@habilelabs.io",
+  "homepage": "https://bitbucket.org/examsbook/examsbook-web#readme",
+  "license": "ISC",
+  "main": "lib/useExitAppOnDoublePress.js",
+  "keywords": [
+    "React native",
+    "react-native",
+    "handle-back",
+    "expo"
+  ],
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/examsbook/examsbook-web.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "16.9.x"
+  }
+}
