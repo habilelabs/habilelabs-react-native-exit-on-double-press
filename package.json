@@ -1,6 +1,6 @@
 {
   "name": "@shankarmorwal/react-native-exit-on-double-press",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom hook that can be used to exit the app on double press. It uses small toaster inside. This will work only on android",
   "author": "Shankar Morwal <shankar@habilelabs.io",
   "homepage": "https://github.com/habilelabs/habilelabs-react-native-exit-on-double-press",
